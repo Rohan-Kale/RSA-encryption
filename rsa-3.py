@@ -1,20 +1,3 @@
-# -----------------------------------------------------------------------
-# FA25 CMPSC 360 Extra Credit Assignment 2
-# RSA Implementation
-# 
-# Name: Rohan Kale
-# ID: 991700357
-# 
-# 
-# You cannot use any external/built-in libraries to help compute gcd
-# or modular inverse. You cannot use RSA, cryptography, or similar libs
-# for this assignment. You must write your own implementation for generating
-# large primes. You must wirte your own implementation for modular exponentiation and
-# modular inverse. Please refer to the documentation for more details.
-# 
-# You are allowed to use randint from the built-in random library
-# -----------------------------------------------------------------------
-
 from typing import Tuple
 import random
 import math
